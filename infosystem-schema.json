@@ -4,7 +4,8 @@
   "required": [
     "uri",
     "shortname",
-    "owner"
+    "owner",
+    "objective"
   ],
   "properties": {
     "uri": {
