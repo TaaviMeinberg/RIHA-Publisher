@@ -39,6 +39,10 @@
       "type": "string",
       "description": "URL, mis viitab süsteemi dokumentatsiooni avalikule asukohale"
     },
+    "objective": {
+      "type": "string",
+      "description": "Süsteemi toimimis eesmärk"
+    },
     "meta": {
       "type": "object",
       "properties": {
