@@ -4,8 +4,7 @@
   "required": [
     "uri",
     "shortname",
-    "owner",
-    "objective"
+    "owner"
   ],
   "properties": {
     "uri": {
@@ -41,7 +40,7 @@
       "description": "URL, mis viitab süsteemi dokumentatsiooni avalikule asukohale"
     },
     "objective": {
-      "type": "String",
+      "type": "string",
       "description": "Süsteemi toimimis eesmärk"
     },
     "meta": {
